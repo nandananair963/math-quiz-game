@@ -1,0 +1,26 @@
+#login{
+  height: 400px;
+  width: 25%;
+  background-color:#acc9c4;
+  border-radius: 10px;
+}
+
+.img{
+width: 300px;
+height:200px;
+}
+
+.name{
+    font-family: 'Abril Fatface', cursive;
+}
+
+body{
+  background-image:url("https://cdn.shopify.com/s/files/1/0285/1316/products/w0631_1s_Retro-mid-century-geometric-seamless-wallpaper-in-seafoam-and-cream-Easy-Going_Repeating-Pattern-Sample-1.jpg?v=1653073336");
+  }
+
+.po{
+  font-size: 50px;
+  font-family: 'Libre Baskerville', serif;
+  padding-top: 15px;
+}
+

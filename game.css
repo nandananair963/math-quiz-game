@@ -1,0 +1,27 @@
+#output{
+    background-color: white;
+    border-radius: 10px;
+    border-top: 10px solid #F6C391;
+    border-color: #F6C391;
+    padding: 10px;
+    float:none;
+    text-align: center;
+}
+
+.po{
+    font-size: 50px;
+    font-family: 'Libre Baskerville', serif;
+    padding-top: 15px;
+    border-color: #F6C391;
+  }
+
+#body{
+background-color: #FFFAF4;
+color:#D25380;
+
+}
+
+#send{
+    width: 300px;
+    background-color: #E08E6D;
+}
